@@ -1,0 +1,6 @@
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\FizzBuzz.lib\bin\Debug\FizzBuzz.lib.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\FizzBuzz.lib\bin\Debug\FizzBuzz.lib.pdb
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\FizzBuzz.lib\obj\Debug\FizzBuzz.lib.csprojAssemblyReference.cache
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\FizzBuzz.lib\obj\Debug\FizzBuzz.lib.csproj.CoreCompileInputs.cache
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\FizzBuzz.lib\obj\Debug\FizzBuzz.lib.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\FizzBuzz.lib\obj\Debug\FizzBuzz.lib.pdb

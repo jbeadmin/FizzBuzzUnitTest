@@ -1,0 +1,10 @@
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\bin\Debug\ConsoleAppFizzBuzz.exe.config
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\bin\Debug\ConsoleAppFizzBuzz.exe
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\bin\Debug\ConsoleAppFizzBuzz.pdb
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\obj\Debug\ConsoleAppFizzBuzz.csprojAssemblyReference.cache
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\obj\Debug\ConsoleAppFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\obj\Debug\ConsoleAppFizzBuzz.exe
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\obj\Debug\ConsoleAppFizzBuzz.pdb
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\bin\Debug\FizzBuzz.lib.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\bin\Debug\FizzBuzz.lib.pdb
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\ConsoleAppFizzBuzz\obj\Debug\ConsoleAppFizzBuzz.csproj.CopyComplete

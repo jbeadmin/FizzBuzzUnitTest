@@ -1,0 +1,16 @@
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\UnitTestFizzBuzz.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\UnitTestFizzBuzz.pdb
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\obj\Debug\UnitTestFizzBuzz.csprojAssemblyReference.cache
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\obj\Debug\UnitTestFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\obj\Debug\UnitTestFizzBuzz.csproj.CopyComplete
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\obj\Debug\UnitTestFizzBuzz.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\obj\Debug\UnitTestFizzBuzz.pdb
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\FizzBuzz.lib.dll
+C:\Users\sakdinon_p\Desktop\FizzBuzzSolution\UnitTestFizzBuzz\bin\Debug\FizzBuzz.lib.pdb
